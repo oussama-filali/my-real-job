@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mon CV</title>
+</head>
+<body>
+    <h1>INFORMATIONS PERSONNELLES</h1>
+    <ul>
+        <li>Nom complet : Oussama Halima-Filali </li>
+        <li>Adresse :71 Rue du berceau</li>
+        <li>Email : oussama.halima-filali@laplateforme.io</li>
+        <li>Téléphone : 07 68 30 67 01</li>
+    </ul>
+
+    <h1>EXPERIENCES PROFESSIONNELLES</h1>
+    <ul>
+        <li>Nom de l'entreprise : Phinelec </li>
+        <li>Poste occupé : Chargé d'affaires </li>
+        <li>Durée : 1an </li>
+        <li>Description : au centre de la relation client et intervenant,de l'acceuil telephonique pour information aux prises de rdv et gestion des situations de conflit</li>
+    </ul>
+
+    <h1>FORMATIONS ET DIPLÔMES</h1>
+    <ul>
+        <li>Nom de l'établissement : LYCEE PROFESSIONNELLES LA VISTE</li>
+        <li>Niveau ou diplôme : Niveau bac professionnelles </li>
+        <li>Durée : 3ans </li>
+        <li>Description : bac professionnelles hygienes et environnement</li>
+    </ul>
+</body>
+</html>
